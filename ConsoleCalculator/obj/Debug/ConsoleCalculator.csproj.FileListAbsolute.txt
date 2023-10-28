@@ -1,0 +1,8 @@
+C:\Users\koval\source\repos\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe.config
+C:\Users\koval\source\repos\ConsoleCalculator\bin\Debug\ConsoleCalculator.exe
+C:\Users\koval\source\repos\ConsoleCalculator\bin\Debug\ConsoleCalculator.pdb
+C:\Users\koval\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\koval\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\koval\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\koval\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.exe
+C:\Users\koval\source\repos\ConsoleCalculator\obj\Debug\ConsoleCalculator.pdb
